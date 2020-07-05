@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="135dp" />
+
+    <TextView
+        android:id="@+id/chords"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="@font/intut"
+        android:text="@string/chords"
+        android:textColor="#000000"
+        android:textSize="90sp"
+        android:textStyle="bold"
+        tools:text="CHORDS" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="70dp" />
+
+    <Button
+        android:id="@+id/h_major"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/main_theme"
+        android:fontFamily="@font/intut"
+        android:text="@string/h_maj"
+        android:textColor="#000000"
+        android:textSize="60sp"
+        android:textStyle="bold"
+        tools:text="MAJOR" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="80dp" />
+
+    <Button
+        android:id="@+id/h_minor"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/main_theme"
+        android:fontFamily="@font/intut"
+        android:text="@string/h_min"
+        android:textAllCaps="false"
+        android:textColor="#000000"
+        android:textSize="65sp"
+        android:textStyle="bold"
+        tools:text="minor" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="155dp" />
+</LinearLayout>

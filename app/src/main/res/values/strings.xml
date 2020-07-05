@@ -1,0 +1,254 @@
+<resources>
+    <string name="app_name">Chords</string>
+    <string name="chords">CHORDS</string>
+    <string name="h_maj">MAJOR</string>
+    <string name="h_min">minor</string>
+    <string name="major">MAJOR</string>
+    <string name="minor">minor</string>
+
+    <string name="M_c">C</string>
+    <string name="M_cs">C#</string>
+    <string name="M_d">D</string>
+    <string name="M_ds">D#</string>
+    <string name="M_e">E</string>
+    <string name="M_f">F</string>
+    <string name="M_fs">F#</string>
+    <string name="M_g">G</string>
+    <string name="M_gs">G#</string>
+    <string name="M_a">A</string>
+    <string name="M_as">A#</string>
+    <string name="M_b">B</string>
+    <string name="m_c">c</string>
+    <string name="m_cs">c#</string>
+    <string name="m_d">d</string>
+    <string name="m_ds">d#</string>
+    <string name="m_e">e</string>
+    <string name="m_f">f</string>
+    <string name="m_fs">f#</string>
+    <string name="m_g">g</string>
+    <string name="m_gs">g#</string>
+    <string name="m_a">a</string>
+    <string name="m_as">a#</string>
+    <string name="m_b">b</string>
+
+    <string name="MM_c">C</string>
+    <string name="MM_cs">C#</string>
+    <string name="MM_d">D</string>
+    <string name="MM_ds">d#</string>
+    <string name="MM_e">e</string>
+    <string name="MM_f">f</string>
+    <string name="MM_fs">F#</string>
+    <string name="MM_g">g</string>
+    <string name="MM_gs">G#</string>
+    <string name="MM_a">A</string>
+    <string name="MM_as">A#</string>
+    <string name="MM_b">B</string>
+
+    <string name="MC_CC">C</string>
+    <string name="MC_dd">d</string>
+    <string name="MC_ee">e</string>
+    <string name="MC_FF">F</string>
+    <string name="MC_GG">G</string>
+    <string name="MC_aa">a</string>
+    <string name="MC_bB">.b</string>
+
+    <string name="MCS_CS">C#</string>
+    <string name="MCS_ds">d#</string>
+    <string name="MCS_ff">f</string>
+    <string name="MCS_FS">F#</string>
+    <string name="MCS_GS">G#</string>
+    <string name="MCS_as">a#</string>
+    <string name="MCS_cC">.c</string>
+
+    <string name="MD_d">D</string>
+    <string name="MD_e">e</string>
+    <string name="MD_fs">f#</string>
+    <string name="MD_g">G</string>
+    <string name="MD_a">A</string>
+    <string name="MD_b">b</string>
+    <string name="MD_cCs">.c#</string>
+
+    <string name="MDS_ds">D#</string>
+    <string name="MDS_f">f</string>
+    <string name="MDS_g">g</string>
+    <string name="MDS_gs">G#</string>
+    <string name="MDS_as">A#</string>
+    <string name="MDS_c">c</string>
+    <string name="MDS_dD">.d</string>
+
+    <string name="ME_e">E</string>
+    <string name="ME_fs">f#</string>
+    <string name="ME_gs">g#</string>
+    <string name="ME_a">A</string>
+    <string name="ME_b">B</string>
+    <string name="ME_cs">c#</string>
+    <string name="ME_dDs">.d#</string>
+
+    <string name="MF_f">F</string>
+    <string name="MF_g">g</string>
+    <string name="MF_a">a</string>
+    <string name="MF_as">A#</string>
+    <string name="MF_c">C</string>
+    <string name="MF_d">d</string>
+    <string name="MF_eE">.e</string>
+
+    <string name="MFS_fs">F#</string>
+    <string name="MFS_gs">g#</string>
+    <string name="MFS_as">a#</string>
+    <string name="MFS_b">B</string>
+    <string name="MFS_cs">C#</string>
+    <string name="MFS_ds">d#</string>
+    <string name="MFS_fF">.f</string>
+
+
+    <string name="MG_g">G</string>
+    <string name="MG_a">a</string>
+    <string name="MG_b">b</string>
+    <string name="MG_c">C</string>
+    <string name="MG_d">D</string>
+    <string name="MG_e">e</string>
+    <string name="MG_fFs">.f#</string>
+
+
+    <string name="MGS_gs">G#</string>
+    <string name="MGS_as">a#</string>
+    <string name="MGS_c">c</string>
+    <string name="MGS_cs">C#</string>
+    <string name="MGS_ds">D#</string>
+    <string name="MGS_f">f</string>
+    <string name="MGS_gG">.g</string>
+
+    <string name="MA_a">A</string>
+    <string name="MA_b">b</string>
+    <string name="MA_cs">c#</string>
+    <string name="MA_d">D</string>
+    <string name="MA_e">E</string>
+    <string name="MA_fs">f#</string>
+    <string name="MA_gGs">.g#</string>
+
+    <string name="MAS_as">A#</string>
+    <string name="MAS_c">c</string>
+    <string name="MAS_d">d</string>
+    <string name="MAS_ds">D#</string>
+    <string name="MAS_f">F</string>
+    <string name="MAS_g">g</string>
+    <string name="MAS_aA">.a</string>
+
+
+    <string name="MB_b">B</string>
+    <string name="MB_cs">c#</string>
+    <string name="MB_ds">d#</string>
+    <string name="MB_e">E</string>
+    <string name="MB_fs">F#</string>
+    <string name="MB_gs">g#</string>
+    <string name="MB_aAs">.a#</string>
+
+
+
+
+
+
+
+
+    <string name="mc_c">c</string>
+    <string name="mc_dD">.d</string>
+    <string name="mc_ds">D#</string>
+    <string name="mc_f">f</string>
+    <string name="mc_g">g</string>
+    <string name="mc_gs">G#</string>
+    <string name="mc_as">A#</string>
+
+    <string name="mcs_cs">c#</string>
+    <string name="mcs_dDs">.d#</string>
+    <string name="mcs_e">E</string>
+    <string name="mcs_fs">f#</string>
+    <string name="mcs_gs">g#</string>
+    <string name="mcs_a">A</string>
+    <string name="mcs_b">B</string>
+
+    <string name="md_d">d</string>
+    <string name="md_eE">.e</string>
+    <string name="md_f">F</string>
+    <string name="md_g">g</string>
+    <string name="md_a">a</string>
+    <string name="md_as">A#</string>
+    <string name="md_c">C</string>
+
+    <string name="mds_ds">d#</string>
+    <string name="mds_fF">.f</string>
+    <string name="mds_fs">F#</string>
+    <string name="mds_gs">g#</string>
+    <string name="mds_as">a#</string>
+    <string name="mds_b">B</string>
+    <string name="mds_cs">C#</string>
+
+    <string name="me_ds">d#</string>
+    <string name="me_fFs">.f#</string>
+    <string name="me_g">G</string>
+    <string name="me_a">a</string>
+    <string name="me_b">b</string>
+    <string name="me_c">C</string>
+    <string name="me_d">D</string>
+
+    <string name="mf_f">f</string>
+    <string name="mf_gG">.g</string>
+    <string name="mf_gs">G#</string>
+    <string name="mf_as">a#</string>
+    <string name="mf_c">c</string>
+    <string name="mf_cs">C#</string>
+    <string name="mf_ds">D#</string>
+
+    <string name="mfs_fs">f#</string>
+    <string name="mfs_gGs">.g#</string>
+    <string name="mfs_as">A</string>
+    <string name="mfs_b">b</string>
+    <string name="mfs_cs">c#</string>
+    <string name="mfs_d">D</string>
+    <string name="mfs_e">E</string>
+
+
+    <string name="mg_g">g</string>
+    <string name="mg_aA">.a</string>
+    <string name="mg_as">A#</string>
+    <string name="mg_c">c</string>
+    <string name="mg_d">d</string>
+    <string name="mg_ds">D#</string>
+    <string name="mg_f">F</string>
+
+
+    <string name="mgs_gs">g#</string>
+    <string name="mgs_aAs">.a#</string>
+    <string name="mgs_b">B</string>
+    <string name="mgs_cs">c#</string>
+    <string name="mgs_ds">d#</string>
+    <string name="mgs_e">E</string>
+    <string name="mgs_fs">F#</string>
+
+    <string name="ma_a">a</string>
+    <string name="ma_bB">.b</string>
+    <string name="ma_cs">C</string>
+    <string name="ma_d">d</string>
+    <string name="ma_e">e</string>
+    <string name="ma_f">F</string>
+    <string name="ma_g">G</string>
+
+    <string name="mas_as">a#</string>
+    <string name="mas_cC">.c</string>
+    <string name="mas_c">C#</string>
+    <string name="mas_ds">d#</string>
+    <string name="mas_f">f</string>
+    <string name="mas_fs">F#</string>
+    <string name="mas_g">G#</string>
+
+
+    <string name="mb_b">b</string>
+    <string name="mb_cCs">.c#</string>
+    <string name="mb_d">D</string>
+    <string name="mb_e">e</string>
+    <string name="mb_fs">f#</string>
+    <string name="mb_g">G</string>
+    <string name="mb_a">A</string>
+
+
+</resources>
+
