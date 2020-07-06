@@ -28,7 +28,7 @@ public class min_e extends AppCompatActivity {
 
         button1= findViewById(R.id.e);
         button2= findViewById(R.id.fs);
-        button3= findViewById(R.id.g);
+        button3= findViewById(R.id.e);
         button4= findViewById(R.id.a);
         button5= findViewById(R.id.b);
         button6= findViewById(R.id.c);
@@ -42,7 +42,7 @@ public class min_e extends AppCompatActivity {
         }
         sound1=soundPool.load(this, R.raw.min_e_e,1);
         sound2=soundPool.load(this, R.raw.min_e_fs,1);
-        sound3=soundPool.load(this, R.raw.min_e_g,1);
+        sound3=soundPool.load(this, R.raw.min_e_e,1);
         sound4=soundPool.load(this, R.raw.min_e_a,1);
         sound5=soundPool.load(this, R.raw.min_e_b,1);
         sound6=soundPool.load(this, R.raw.min_e_c,1);

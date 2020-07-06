@@ -144,7 +144,7 @@ public class min_intent extends AppCompatActivity {
         em.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(min_intent.this, maj_e.class);
+                Intent intent = new Intent(min_intent.this, min_e.class);
                 startActivity(intent);
 
             }
@@ -191,7 +191,7 @@ public class min_intent extends AppCompatActivity {
         fsm.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(min_intent.this, maj_fs.class);
+                Intent intent = new Intent(min_intent.this, min_fs.class);
                 startActivity(intent);
 
             }
@@ -238,7 +238,7 @@ public class min_intent extends AppCompatActivity {
         gsm.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(min_intent.this, maj_gs.class);
+                Intent intent = new Intent(min_intent.this, min_gs.class);
                 startActivity(intent);
 
             }
@@ -285,7 +285,7 @@ public class min_intent extends AppCompatActivity {
         asm.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(min_intent.this, maj_as.class);
+                Intent intent = new Intent(min_intent.this, min_as.class);
                 startActivity(intent);
 
             }
