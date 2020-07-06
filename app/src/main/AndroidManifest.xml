@@ -9,58 +9,84 @@
         android:roundIcon="@mipmap/round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".min_b"
+        <activity
+            android:name=".min_e"
             android:screenOrientation="portrait"></activity>
-        <activity android:name=".min_as"
-            android:screenOrientation="portrait"/>
-        <activity android:name=".min_a"
-            android:screenOrientation="portrait"/>
-        <activity android:name=".min_gs"
-            android:screenOrientation="portrait"/>
-        <activity android:name=".min_g"
-            android:screenOrientation="portrait"/>
-        <activity android:name=".min_fs"
-            android:screenOrientation="portrait"/>
-        <activity android:name=".min_f"
-            android:screenOrientation="portrait"/>
-        <activity android:name=".min_e"
-            android:screenOrientation="portrait"/>
-        <activity android:name=".min_ds"
-            android:screenOrientation="portrait"/>
-        <activity android:name=".min_d"
-            android:screenOrientation="portrait"/>
-        <activity android:name=".min_cs"
-            android:screenOrientation="portrait"/>
-        <activity android:name=".min_c"
-            android:screenOrientation="portrait"/>
-        <activity android:name=".maj_b"
-            android:screenOrientation="portrait"/>
-        <activity android:name=".maj_as"
-            android:screenOrientation="portrait"/>
-        <activity android:name=".maj_a"
-            android:screenOrientation="portrait"/>
-        <activity android:name=".maj_gs"
-            android:screenOrientation="portrait"/>
-        <activity android:name=".maj_g"
-            android:screenOrientation="portrait"/>
-        <activity android:name=".maj_fs"
-            android:screenOrientation="portrait"/>
-        <activity android:name=".maj_f"
-            android:screenOrientation="portrait"/>
-        <activity android:name=".maj_e"
-            android:screenOrientation="portrait"/>
-        <activity android:name=".maj_ds"
-            android:screenOrientation="portrait"/>
-        <activity android:name=".maj_d"
-            android:screenOrientation="portrait"/>
-        <activity android:name=".maj_cs"
-            android:screenOrientation="portrait"/>
-        <activity android:name=".maj_c"
-            android:screenOrientation="portrait"/>
-        <activity android:name=".min_intent"
-            android:screenOrientation="portrait"/>
-        <activity android:name=".maj_intent"
-            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".min_b"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".min_as"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".min_a"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".min_gs"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".min_g"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".min_fs"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".min_f"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".min_ds"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".min_d"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".min_cs"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".min_c"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".maj_b"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".maj_as"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".maj_a"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".maj_gs"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".maj_g"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".maj_fs"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".maj_f"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".maj_e"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".maj_ds"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".maj_d"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".maj_cs"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".maj_c"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".min_intent"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".maj_intent"
+            android:screenOrientation="portrait" />
         <activity
             android:name=".MainActivity"
             android:screenOrientation="portrait">

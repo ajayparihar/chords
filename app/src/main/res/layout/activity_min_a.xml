@@ -4,6 +4,137 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
     tools:context=".min_a">
+
+
+    <TextView
+        android:id="@+id/min_a_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/intut"
+        android:text="@string/m_a"
+        android:textColor="#000000"
+        android:textSize="90sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/a"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/a"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/main_theme"
+        android:fontFamily="@font/intut"
+        android:text="@string/ma_a"
+        android:textAllCaps="false"
+        android:textColor="#000000"
+        android:textSize="60sp"
+        app:layout_constraintBottom_toBottomOf="@+id/c"
+        app:layout_constraintEnd_toEndOf="@+id/d"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/b"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/main_theme"
+        android:fontFamily="@font/intut"
+        android:text="@string/ma_bB"
+        android:textAllCaps="false"
+        android:textColor="#000000"
+        android:textSize="60sp"
+        app:layout_constraintBottom_toBottomOf="@+id/e"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/a"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/c"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/main_theme"
+        android:fontFamily="@font/intut"
+        android:text="@string/ma_c"
+        android:textAllCaps="false"
+        android:textColor="#000000"
+        android:textSize="60sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/d"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/d"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/main_theme"
+        android:fontFamily="@font/intut"
+        android:text="@string/ma_d"
+        android:textAllCaps="false"
+        android:textColor="#000000"
+        android:textSize="60sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/e"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/main_theme"
+        android:fontFamily="@font/intut"
+        android:text="@string/ma_e"
+        android:textAllCaps="false"
+        android:textColor="#000000"
+        android:textSize="60sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/d"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/f"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/main_theme"
+        android:fontFamily="@font/intut"
+        android:text="@string/ma_f"
+        android:textAllCaps="false"
+        android:textColor="#000000"
+        android:textSize="60sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/d"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/c"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/g"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/main_theme"
+        android:fontFamily="@font/intut"
+        android:text="@string/ma_g"
+        android:textAllCaps="false"
+        android:textColor="#000000"
+        android:textSize="60sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/f"
+        app:layout_constraintTop_toTopOf="@+id/e"
+        tools:ignore="MissingConstraints" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
