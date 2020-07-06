@@ -28,7 +28,7 @@ public class min_e extends AppCompatActivity {
 
         button1= findViewById(R.id.e);
         button2= findViewById(R.id.fs);
-        button3= findViewById(R.id.e);
+        button3= findViewById(R.id.g);
         button4= findViewById(R.id.a);
         button5= findViewById(R.id.b);
         button6= findViewById(R.id.c);
