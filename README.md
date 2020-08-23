@@ -1,4 +1,4 @@
-#chords
+# chords
 
 This is an android aplication which helps musician to make chord progressions easily and quickly.
 
