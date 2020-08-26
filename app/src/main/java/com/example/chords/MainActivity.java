@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Toast toast = Toast.makeText(getApplicationContext(),
-                        "Made by Babe Developer",
+                        "Made by Bheb Developer",
                         Toast.LENGTH_SHORT);
 
                 toast.show();
