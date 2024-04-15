@@ -22,7 +22,8 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:ignore="MissingConstraints" />
+        tools:ignore="MissingConstraints"
+        tools:targetApi="jelly_bean" />
 
     <Button
         android:id="@+id/f"
@@ -110,7 +111,7 @@
         android:layout_height="wrap_content"
         android:background="@drawable/main_theme"
         android:fontFamily="@font/intut"
-        android:text="@string/mf_c"
+        android:text="@string/mf_cs"
         android:textAllCaps="false"
         android:textColor="#000000"
         android:textSize="60sp"
@@ -118,7 +119,8 @@
         app:layout_constraintEnd_toEndOf="@+id/as"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/gs"
-        tools:ignore="MissingConstraints" />
+        tools:ignore="MissingConstraints"
+        tools:targetApi="jelly_bean" />
 
     <Button
         android:id="@+id/ds"
